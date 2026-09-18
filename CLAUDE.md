@@ -1,3 +1,24 @@
+# AI-Infra-Guard (Tencent/AI-Infra-Guard)
+
+## 프로젝트 개요
+인공지능 인프라에 숨겨진 취약점과 보안 구멍을 해커처럼 공격하며 찾아내 철통 방어막을 쳐주는 "텐센트 공식 AI 레드팀 보안 파수꾼"
+거대 언어 모델의 악의적 프롬프트 주입 공격, 기업 기밀 데이터 탈취, 인프라 침투 경로를 사전에 정밀 점검
+AI를 실제 서비스에 도입할 때 발생할 수 있는 보안 사고와 법적 리스크를 원천 차단하는 엔터프라이즈 방패
+
+## 핵심 특징 & 추천 분야
+- AI레드팀보안플랫폼
+- 텐센트공식보안
+- 인프라취약점점검
+- 프롬프트공격방어
+- 철통보안파수꾼
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
